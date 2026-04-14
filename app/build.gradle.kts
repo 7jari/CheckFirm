@@ -20,8 +20,8 @@ android {
         applicationId = "com.illusion.checkfirm"
         minSdk = 28
         targetSdk = 36
-        versionCode = 58
-        versionName = "11.2.1"
+        versionCode = 59
+        versionName = "11.2.2"
     }
 
     buildTypes {
